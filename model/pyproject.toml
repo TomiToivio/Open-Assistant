@@ -31,8 +31,8 @@ dependencies = [
     "torch>=2.0.0",
     "langcodes==3.3.0",
     "tqdm>=4.65.0",
-    "pydantic==1.10.7",
-    "transformers==4.31.0",
+    "pydantic==1.10.13",
+    "transformers==5.10.1",
     "wandb>=0.15.5",
 ]
 
