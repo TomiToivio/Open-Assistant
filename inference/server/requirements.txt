@@ -17,7 +17,7 @@ psutil
 pydantic
 pynvml
 PyPDF2 # web_retriever plugin
-python-jose[cryptography]==3.3.0
+python-jose[cryptography]==3.5.0
 pyyaml # web_retriever plugin
 redis
 sqlmodel
